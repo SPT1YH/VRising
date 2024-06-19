@@ -1,0 +1,39 @@
+{
+  "GameModeType": 0,
+  "DeathContainerPermission": 1,
+  "RelicSpawnType": 1,
+  "TeleportBoundItems": false,
+  "InventoryStacksModifier": 2.0,
+  "VBloodUnitSettings": [],
+  "UnlockedAchievements": [],
+  "UnlockedResearchs": [],
+  "GameTimeModifiers": {},
+  "VampireStatModifiers": {},
+  "EquipmentStatModifiers_Global": {
+    "ResourceYieldModifier": 2.0
+  },
+  "CastleStatModifiers_Global": {
+    "HeartLimits": {
+      "Level1": {},
+      "Level2": {},
+      "Level3": {},
+      "Level4": {},
+      "Level5": {}
+    }
+  },
+  "PlayerInteractionSettings": {
+    "VSPlayerWeekdayTime": {},
+    "VSPlayerWeekendTime": {},
+    "VSCastleWeekdayTime": {},
+    "VSCastleWeekendTime": {}
+  },
+  "TraderModifiers": {},
+  "WarEventGameSettings": {
+    "WeekdayTime": {},
+    "WeekendTime": {},
+    "ScalingPlayers1": {},
+    "ScalingPlayers2": {},
+    "ScalingPlayers3": {},
+    "ScalingPlayers4": {}
+  }
+}
